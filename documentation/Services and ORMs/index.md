@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: onecol
 title: Services and ORM
 ---
 
 # Services and ORM
 
 ## Item Web API
+* [Web API Sitecore ID Formatter](http://mikerobbins.co.uk/2014/12/02/web-api-sitecore-id-formatter/)
 
 ### Video
 * [https://www.youtube.com/watch?v=muLFkTlYtCM - by Kern Herskind Nightingale](https://www.youtube.com/watch?v=muLFkTlYtCM )
@@ -19,6 +20,15 @@ title: Services and ORM
 
 ## ORM
 
+### Frameworks
+
+| Framework | Type | Features |
+| ----- | ---- | ----- |
+| [Glass.Mapper.Sc](http://glass.lu) | Mapper | |
+| [Fortis](http://fortis.ws/) | Wrapper | |
+| [Synthesis](https://github.com/kamsar/Synthesis) | Wrapper | |
+| [Diamond](https://github.com/sitecorerick/diamond) | Wrapper | | 
+
 * [http://glass.lu/](http://glass.lu/)
 * [http://cardinalcore.co.uk/category/glass-mapper/](http://cardinalcore.co.uk/category/glass-mapper/)
 * [http://herskind.co.uk/blog/2012/05/auto-generating-glass-model-with-tds-t4](http://herskind.co.uk/blog/2012/05/auto-generating-glass-model-with-tds-t4)
@@ -26,3 +36,4 @@ title: Services and ORM
 * [https://github.com/hermanussen/CompiledDomainModel](https://github.com/hermanussen/CompiledDomainModel)
 * [https://github.com/NTTDATA/ClassySitecore/](https://github.com/NTTDATA/ClassySitecore/)
 * [http://www.harshbaid.in/2013/09/23/code-generation-using-sitecore-rocks-and-visual-studio/](http://www.harshbaid.in/2013/09/23/code-generation-using-sitecore-rocks-and-visual-studio/)
+* [http://www.seanholmesby.com/sitecore-glass-mapper-data-handler-for-a-link-list-field/](http://www.seanholmesby.com/sitecore-glass-mapper-data-handler-for-a-link-list-field/)

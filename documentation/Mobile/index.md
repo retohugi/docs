@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: onecol
 title: Sitecore and Mobile
 ---
 
@@ -28,4 +28,3 @@ This section looks at the different ways of approaching mobile with a Sitecore s
 * [http://sdn.sitecore.net/Products/Sitecore%20Mobile%20SDK.aspx](http://sdn.sitecore.net/Products/Sitecore%20Mobile%20SDK.aspx) (Official SDN Overview)
 * [https://github.com/Sitecore/sitecore-ios-sdk](https://github.com/Sitecore/sitecore-ios-sdk)
 * [https://github.com/Sitecore/sitecore-android-sdk](https://github.com/Sitecore/sitecore-android-sdk)
-

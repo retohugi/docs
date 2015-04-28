@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: onecol
 title: Extending the Sitecore Client
 ---
 
@@ -22,6 +22,15 @@ Includes **Developer's Cookbook** and **Component Reference**, as well as an exa
 * [http://laubplusco.net/category/sitecore-speak/](http://laubplusco.net/category/sitecore-speak/)
 * [http://adeneys.wordpress.com/category/net/sitecore/speak/ ](http://adeneys.wordpress.com/category/net/sitecore/speak/)
 * [http://www.dervalp.com/ (Pierre, SPEAK developer)](http://www.dervalp.com/)
+* [http://www.hhogdev.com/blog/2014/october/speak-behaviors.aspx](http://www.hhogdev.com/blog/2014/october/speak-behaviors.aspx)
+* [http://www.hhogdev.com/blog/2014/october/speak-app-changes.aspx](http://www.hhogdev.com/blog/2014/october/speak-app-changes.aspx)
+* [http://mikerobbins.co.uk/2014/10/10/sitecore-speak-dialog-within-desktop/](http://mikerobbins.co.uk/2014/10/10/sitecore-speak-dialog-within-desktop/)
+
+### Modules
+
+* [https://marketplace.sitecore.net/Modules/SPEAK_Data_Importer.aspx?sc_lang=en (Data Importer)](https://marketplace.sitecore.net/Modules/SPEAK_Data_Importer.aspx?sc_lang=en)
+* [https://marketplace.sitecore.net/Modules/Sitecore_Bulk_Role_Permissions.aspx?sc_lang=en (Bulk Role Permissions Dialog)](https://marketplace.sitecore.net/Modules/Sitecore_Bulk_Role_Permissions.aspx?sc_lang=en)
+
 
 ### Projects and References
 
@@ -48,6 +57,8 @@ Includes **Developer's Cookbook** and **Component Reference**, as well as an exa
 * [https://markstiles.net/Blog/2014/02/01/Sheer-UI-4-Building-A-Wizard.aspx](https://markstiles.net/Blog/2014/02/01/Sheer-UI-4-Building-A-Wizard.aspx)
 * [http://learnsitecore.cmsuniverse.net/en/Developers/Articles/2009/10/My-First-Sitecore-XAML-Application.aspx](http://learnsitecore.cmsuniverse.net/en/Developers/Articles/2009/10/My-First-Sitecore-XAML-Application.aspx)
 * [http://jockstothecore.com/tag/sheer/](http://jockstothecore.com/tag/sheer/)
+* [http://sitecorejunkie.com/category/context-menu/](http://sitecorejunkie.com/category/context-menu/)
+* [http://sitecorejunkie.com/category/commands/](http://sitecorejunkie.com/category/commands/)
 
 ### Video
 

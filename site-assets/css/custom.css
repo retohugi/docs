@@ -1,0 +1,277 @@
+@font-face {
+	font-family: 'KievitLight';
+	src: url('/docs/site-assets/fonts/kievit-light.eot');
+	src: url('/docs/site-assets/fonts/kievit-light.eot?#iefix') format('embedded-opentype'),
+		url('/docs/site-assets/fonts/kievit-light.svg#kievit-light') format('svg'),
+		url('/docs/site-assets/fonts/kievit-light.woff') format('woff'),
+		url('/docs/site-assets/fonts/kievit-light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6, strong.heading {
+	font-family: 'KievitLight', Arial, sans-serif;
+	font-weight: bold;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+.heading {
+	display: block;
+}
+
+.navbar-nav>li>a:hover {
+	background: #1cb0c2;
+}
+
+h3#what-is-this {
+	margin-top: 0;
+}
+
+a {
+	color: #006f7c
+}
+
+a:hover {
+	color: #1cb0c2;
+}
+
+img {
+	max-width: 100%;
+	border:1px solid #999;
+}
+
+.jumboContainer .jumbotron {
+	margin-bottom: 0;
+	background: url('/docs/images/banner2.PNG') #ccc;
+
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  background-position: -180px -320px;
+  background-repeat: no-repeat;
+}
+
+@media all and (max-width: 1024px) {
+    .jumboContainer {
+        display:none;
+    }
+}
+
+
+.navbar-toggle {
+	color: #fff;
+}
+
+.navbar-sitecore {
+	background: #000000;
+	border-radius: 0;
+}
+
+.navbar-inverse .navbar-brand,
+.navbar-inverse .navbar-nav>li>a {
+	color: #fff;
+}
+
+.navbar-sitecore a {
+	color: #fff;
+}
+
+#sidebar-menu {
+	padding: 0;
+}
+
+#sidebar-menu h2 {
+	font-size: 18px;
+	margin-top: 25px;
+}
+
+#sidebar-menu ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#sidebar-menu .main-menu a {
+    display: block;
+	font-size: 13px;
+	font-weight: 500;
+	color: #999;
+	padding: 0;
+}
+#sidebar-menu .main-menu a:hover {
+	background:none;
+}
+#sidebar-menu .sub-menu a {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 15px;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+#sidebar-menu strong.heading {
+	font-size: 16px;
+	border-bottom: 1px solid #eee;
+	padding: 4px 0 2px 4px;
+}
+
+#sidebar-menu .main-menu {
+ border-bottom: 1px solid #eee;
+ padding: 10px 4px;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+	background: #1cb0c2;
+	border: none;
+}
+
+/* BUTTON OVERRIDES */
+
+.btn-default { 
+background: #008998;
+border-color: #008998;
+color: #fff;
+}
+
+.btn-default:hover {
+	background: #006f7c;
+	border-color: #006f7c;
+	color: #fff;
+}
+
+/* SEARCH */
+
+.searchBar {
+	background: #008998;
+	margin-bottom: 30px;
+	min-height: 50px;
+	padding: 20px 0;
+}
+
+.searchBarInner {
+	margin: 0 auto;
+	float: none;
+}
+
+.searchBarInner .btn-default {
+	background: #1cb0c2;
+	border: 1px solid #1cb0c2;
+}
+
+.searchBar .col-lg-6 {
+	margin: 0 auto;
+}
+
+.searchBar input[type="text"]
+{
+	font-size: 20px;
+}
+
+.cse .gsc-control-cse, .gsc-control-cse {
+	background: none !important;
+	border: none !important;
+}
+
+.gsc-search-button
+{
+    background-color: #1cb0c2;
+    border-radius: 5px;
+
+}
+
+.gsc-selected-option-container {
+	min-width: 100px !important;
+}
+
+.gsc-control-cse {
+	padding: 0;
+}
+
+/* RESPONSIVE */
+
+
+
+/* body {
+	background: #000;
+}
+
+@font-face {
+	font-family: 'KievitLight';
+	src: url('/docs/site-assets/fonts/kievit-light.eot');
+	src: url('/docs/site-assets/fonts/kievit-light.eot?#iefix') format('embedded-opentype'),
+		url('/docs/site-assets/fonts/kievit-light.svg#kievit-light') format('svg'),
+		url('/docs/site-assets/fonts/kievit-light.woff') format('woff'),
+		url('/docs/site-assets/fonts/kievit-light.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'KievitLight', Arial, sans-serif;
+	font-weight: bold;
+}
+
+h3#what-is-this {
+	margin-top: 0;
+}
+
+a {
+	color: #006f7c
+}
+
+a:hover {
+	color: #1cb0c2;
+}
+
+img {
+	max-width: 100%;
+}
+
+.btn-primary { 
+background: #33aab7;
+border-color: #33aab7;
+}
+
+.btn-primary:hover {
+	background: #006f7c;
+	border-color: #006f7c;
+}
+
+.container .doc-masthead {
+	color: #fff;
+	background: #008998;
+	margin-bottom: 0;
+		border-radius: 0;
+}
+
+.doc-body-inner {
+	padding: 40px;
+	background: #fff;
+}
+
+.container.doc-body {
+	background: #071a2d;
+	border-top: 1px solid #203a51;
+	padding: 30px 10px;
+}
+*/
+
+/* RESPONSIVE */
+/*
+@media (max-width: 768px) 
+{
+	.container.doc-body {
+	padding: 0;
+	border: 0;
+	
+}
+
+.doc-body-inner {
+	padding: 20px;
+}
+}
+
+}
+ */

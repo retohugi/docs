@@ -16,6 +16,7 @@ If you are setting up a **production environment**, refer to the [**scaling guid
 ## Data Templates and the Sitecore Tree
 
 ### Official Sitecore Documentation (7.0 - 7.2)
+
 * [Data Definition Reference](http://sdn.sitecore.net/Reference/Sitecore%207/Data%20Definition%20Reference.aspx)  
 An overview of the Sitecore tree, items, data templates, and field types.
 * [Data Definition Cookbook](http://sdn.sitecore.net/Reference/Sitecore%207/Data%20Definition%20Cookbook.aspx)  
@@ -91,6 +92,9 @@ Chapter 3 contains information about publishing (including targets, types, and r
 * [Workflow Cookbook](http://sdn.sitecore.net/Reference/Sitecore%207/Workflow%20Cookbook.aspx)
 * [Workflow Reference](http://sdn.sitecore.net/Reference/Sitecore%207/Workflow%20Reference.aspx)
 
+### Workflow and User Security Topics
+* [Authorizations/Permissions]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Authorizations)
+
 ### Blog Posts
 
 * [http://cardinalcore.co.uk/2014/07/02/creating-custom-permissions-in-sitecore/](http://cardinalcore.co.uk/2014/07/02/creating-custom-permissions-in-sitecore/)
@@ -106,6 +110,12 @@ Chapter 3 contains information about publishing (including targets, types, and r
 * [Include File Patching Facilities](http://sdn.sitecore.net/Reference/Sitecore%207/Include%20File%20Patching%20Facilities.aspx)
 * [Handling HTTP 404](http://sdn.sitecore.net/Reference/Sitecore%207/Handing%20HTTP%20404.aspx)
 
+### Configuration Topics
+
+* [Patch Files]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Patch Files)
+* [Settings]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Settings)
+* [Configuration Factory]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Sitecore Configuration Factory)
+
 ### Blog Posts
 
 * [http://ctor.io/handling-404-and-other-errors-with-sitecore-items/](http://ctor.io/handling-404-and-other-errors-with-sitecore-items/)
@@ -120,6 +130,17 @@ Chapter 3 contains information about publishing (including targets, types, and r
 
 * [Sitecore Pipelines](http://sdn.sitecore.net/Reference/Sitecore%207/Sitecore%20Pipelines.aspx)
 * [Rules Engine Cookbook](http://sdn.sitecore.net/Reference/Sitecore%207/Rules%20Engine%20Cookbook.aspx)
+
+### Extending Sitecore Topics
+
+* [Logging]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Logging)
+* [Pipelines]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Pipelines)
+* [Events]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Events)
+* [Providers]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Providers)
+* [Asynchronous Tasks]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Asynchronous Tasks)
+* [Caching]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Caching)
+* [Rules Engine]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Rules Engine)
+* [Data Providers]({{ site.baseurl }}/documentation/Sitecore Fundamentals/Data Providers)
 
 ### Blog Posts
 
@@ -191,3 +212,4 @@ Chapter 3 contains information about publishing (including targets, types, and r
 * [http://www.newguid.net/sitecore/2014/restricting-the-number-of-components-in-the-sitecore-page-editor/](http://www.newguid.net/sitecore/2014/restricting-the-number-of-components-in-the-sitecore-page-editor/)
 * [http://jockstothecore.com/injecting-resources-into-content-and-page-editor/](http://jockstothecore.com/injecting-resources-into-content-and-page-editor/)
 * [http://getfishtank.ca/blog/create-rss-feeds-in-sitecore](http://getfishtank.ca/blog/create-rss-feeds-in-sitecore)
+* [http://sitecorejourney.nileshthakkar.com/](http://sitecorejourney.nileshthakkar.com/)
